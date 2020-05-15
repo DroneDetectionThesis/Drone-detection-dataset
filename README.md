@@ -1,5 +1,5 @@
 # Drone-detection-dataset
-Dataset containing IR, visible and audio data to be used to train drone detection systems.
+Dataset containing IR, visible and audio data that can be used to train and evaluate drone detection systems.
 
 Video labels: Airplane, Bird, Drone and Helicopter.
 Audio labels: Drone, Helicopter and Background.

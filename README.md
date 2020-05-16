@@ -4,6 +4,8 @@ Dataset containing IR, visible and audio data that can be used to train and eval
 Video labels: Airplane, Bird, Drone and Helicopter.
 Audio labels: Drone, Helicopter and Background.
 
+The dataset contains 90 audio clips and 650 videos (365 IR and 285 visible). If all images are extracted from all the videos the dataset has a total of 203328 annotated images.
+
 Free to download, use and edit.
 Descriptions of the videos are found in "Video_dataset_description.xlsx".
 The videos can be used as they are, or together with the respective label-files.

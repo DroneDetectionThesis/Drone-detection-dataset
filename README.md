@@ -14,4 +14,6 @@ Some instructions and examples are found in "Create_a_dataset_from_videos_and_la
 
 Please cite "Drone detection and classification using machine learning and sensor fusion, Fredrik Svanström, Master thesis, Halmstad University, 2020".
 
+[Link to thesis] (http://urn.kb.se/resolve?urn=urn:nbn:se:hh:diva-42141)
+
 DroneDetectionThesis@gmail.com

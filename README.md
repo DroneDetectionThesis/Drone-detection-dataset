@@ -12,7 +12,7 @@ The videos can be used as they are, or together with the respective label-files.
 The annotations are in .mat-format and have been done using the Matlab video labeler.
 Some instructions and examples are found in "Create_a_dataset_from_videos_and_labels.m"
 
-Please cite:
+Please cite:  
 "Svanström, F. (2020). Drone Detection and Classification using Machine Learning and Sensor Fusion"  
 [Link](http://urn.kb.se/resolve?urn=urn:nbn:se:hh:diva-42141)  
 or  

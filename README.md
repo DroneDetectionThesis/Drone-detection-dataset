@@ -21,5 +21,7 @@ or
 
 https://zenodo.org/badge/DOI/10.5281/zenodo.5500576.svg
 
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.5500576.svg)](http://dx.doi.org/10.5281/zenodo.5500576)
+
 Contact:  
 DroneDetectionThesis@gmail.com

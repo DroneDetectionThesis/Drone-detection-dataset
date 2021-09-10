@@ -19,8 +19,6 @@ or
 "Svanström F, Englund C and Alonso-Fernandez F. (2020). Real-Time Drone Detection and Tracking With Visible, Thermal and Acoustic Sensors".
 [Link to ICPR2020-paper](https://arxiv.org/pdf/2007.07396.pdf)
 
-https://zenodo.org/badge/DOI/10.5281/zenodo.5500576.svg
-
 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.5500576.svg)](http://dx.doi.org/10.5281/zenodo.5500576)
 
 Contact:  

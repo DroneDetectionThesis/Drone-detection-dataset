@@ -18,7 +18,7 @@ Please cite:
 or  
 "Svanström F, Englund C and Alonso-Fernandez F. (2020). Real-Time Drone Detection and Tracking With Visible, Thermal and Acoustic Sensors".
 [Link to ICPR2020-paper](https://arxiv.org/pdf/2007.07396.pdf)
-or
+or  
 "Svanström F, Englund C and Alonso-Fernandez F. (2021). A Dataset for Multi-Sensor Drone Detection".
 [Link to Data in Brief](https://www.sciencedirect.com/science/article/pii/S2352340921007976#!)
 
